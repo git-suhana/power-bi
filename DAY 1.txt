@@ -1,2 +1,3 @@
-*Downloaded and Installed PowerBI Desktop.
-*Signed into PowerBI platform using Microsoft account to familiarise and access its features.
+* Downloaded and Installed PowerBI Desktop.
+* Signed into PowerBI platform using Microsoft account
+* Familiarised the basic features
