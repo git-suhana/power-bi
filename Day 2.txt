@@ -1,0 +1,26 @@
+Got familiarized with the three views available in PowerBI such as Report view, Table view and Model view.
+
+Report View:
+Characteristics:
+Visualization: This view is primarily focused on creating interactive and visually appealing reports using various charts, graphs, and other visual elements.
+Interactivity: Users can interact with the visualizations, apply filters, drill down into data, and explore insights.
+Layout: Allows for arranging visuals on the canvas, setting formatting options, and designing a cohesive report layout.
+Significance:
+Presentation: Report view is essential for creating and presenting data insights to end-users or stakeholders in a consumable and understandable format.
+User Interaction: Enables users to interact with the data visually, facilitating better understanding and decision-making.
+
+Table View:
+Characteristics:
+Tabular Data: This view displays the data in a table format, showing rows and columns of the dataset.
+Data Transformation: Users can perform basic data cleaning, sorting, and filtering directly in the table view.
+Significance:
+Data Exploration: Table view is useful for a detailed exploration of the raw data, allowing users to identify patterns, errors, or anomalies.
+Quick Analysis: Provides a quick overview of the dataset's structure and content before creating visualizations.
+
+Model View:
+Characteristics:
+Data Relationships: Allows users to define and visualize relationships between different tables in the dataset.
+Data Modeling: Enables the creation of calculated columns, measures, and hierarchies for more advanced data analysis.
+Significance:
+Data Modeling: Model view is crucial for building a solid foundation for data analysis by defining relationships and creating calculated elements.
+Complex Analysis: Essential for users requiring more advanced data modeling and analysis capabilities, such as creating custom calculations.
